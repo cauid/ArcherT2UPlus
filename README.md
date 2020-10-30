@@ -13,11 +13,11 @@ sudo apt purge rtl8812au-dkms
 
 ```
 $ sudo apt install git
-$ sudo git clone https://github.com/cauid/ArcherT2UPlus.git
-$ sudo cp -r rtl8812au  /usr/src/rtl8812au-4.2.2
-$ sudo dkms add -m rtl8812au -v 4.2.2
-$ sudo dkms build -m rtl8812au -v 4.2.2
-$ sudo dkms install -m rtl8812au -v 4.2.2
+$ sudo git clone https://github.com/cauid/archert2uplus.git
+$ sudo cp -r rtl8812au  /usr/src/archert2uplus-4.2.2
+$ sudo dkms add -m archert2uplus -v 4.2.2
+$ sudo dkms build -m archert2uplus -v 4.2.2
+$ sudo dkms install -m archert2uplus -v 4.2.2
 ```
 
 Una vez instalado podemos reinciar el equipo. No detectará redes wifi sin hacerlo previamente.
