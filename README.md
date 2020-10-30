@@ -14,7 +14,7 @@ sudo apt purge rtl8812au-dkms
 ```
 $ sudo apt install git
 $ sudo git clone https://github.com/cauid/archert2uplus.git
-$ sudo cp -r rtl8812au  /usr/src/archert2uplus-4.2.2
+$ sudo cp -r archert2uplus  /usr/src/archert2uplus-4.2.2
 $ sudo dkms add -m archert2uplus -v 4.2.2
 $ sudo dkms build -m archert2uplus -v 4.2.2
 $ sudo dkms install -m archert2uplus -v 4.2.2
