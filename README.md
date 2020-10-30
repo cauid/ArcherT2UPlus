@@ -23,6 +23,9 @@ $ sudo dkms install -m rtl8812au -v 4.2.2
 Una vez instalado podemos reinciar el equipo. No detectará redes wifi sin hacerlo previamente.
 Ayuda: en caso de estar instalado correctamente el USB tendrá una luz parpadenate.
 
+## Source
+https://ubuntuforums.org/showthread.php?t=2375603
+
 
 ## ---- Original text from original repository ----
 
