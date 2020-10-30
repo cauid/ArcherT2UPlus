@@ -1,4 +1,4 @@
-## Drivers WiFi para TP-Link Archer T2U Plus AC 600
+## Drivers WiFi TP-Link Archer T2U Plus AC 600
 
 v4.2.2 working atm 30/10/2020
 
